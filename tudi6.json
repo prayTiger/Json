@@ -17,7 +17,7 @@
     "assets": [
         {
             "id": "image_0",
-            "w": 1920,
+            "w": 3840,
             "h": 1080,
             "u": "",
             "p": "img/page3/tudi/tudi6/grass2.png",
@@ -89,7 +89,7 @@
         },
         {
             "id": "image_9",
-            "w": 1920,
+            "w": 3840,
             "h": 1080,
             "u": "",
             "p": "img/page3/tudi/tudi6/bg6.png",
